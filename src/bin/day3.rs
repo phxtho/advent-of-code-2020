@@ -1,4 +1,6 @@
-use std::convert::{TryInto, TryFrom};
+/*From https://adventofcode.com/2020/day/3 */
+
+use std::convert::TryFrom;
 
 fn main () {
     let input = 
